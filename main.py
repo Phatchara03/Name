@@ -1,2 +1,1 @@
-print("nickname")
 print("Hello")
