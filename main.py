@@ -1,2 +1,2 @@
 print("Hello")
-print("Editor")
+print("Editor 2")
