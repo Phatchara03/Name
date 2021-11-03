@@ -1,2 +1,2 @@
 print("Hello")
-print("Master Pat")
+print("Editor")
